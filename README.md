@@ -31,10 +31,9 @@ Actualmente continúo fortaleciendo mis habilidades técnicas, desarrollando pro
 
 ## 📂 Proyectos y experiencia académica
 
-- 🏪 **HidraMarket:** proyecto de gestión de inventario con JavaScript y Bootstrap.
-- 🚇 **Aplicación de navegación del Metro de Medellín:** propuesta para mejorar la orientación de los usuarios y sus desplazamientos.
 - 🔧 **Serviteca Taller Automotriz:** análisis y organización de procesos de un negocio.
 - 🌱 **EcoSENA:** proyecto académico enfocado en una iniciativa tecnológica y ambiental.
+- 🍹 **Chupitos:** proyecto relacionado con la venta de tragos, enfocado en la presentación de productos y la gestión de un negocio de bebidas.
 
 ## 🎯 Objetivo profesional
 
