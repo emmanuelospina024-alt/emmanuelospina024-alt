@@ -26,7 +26,7 @@ Actualmente continúo fortaleciendo mis habilidades técnicas, desarrollando pro
 
 ### 🛠️ Herramientas de desarrollo
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="Git, GitHub, IntelliJ IDEA y Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, IntelliJ IDEA y Visual Studio Code" />
 </p>
 
 ## 📂 Proyectos y experiencia académica
