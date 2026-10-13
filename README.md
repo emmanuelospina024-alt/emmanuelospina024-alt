@@ -1,16 +1,51 @@
-## Hi there 👋
+# Emmanuel Ospina Alzate
+### 💻 Desarrollador de Software en Formación | SENA - ADSO
 
-<!--
-**emmanuelospina024-alt/emmanuelospina024-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy Emmanuel Ospina Alzate, estudiante de Análisis y Desarrollo de Software (ADSO) en el SENA, Colombia. 🇨🇴
 
-Here are some ideas to get you started:
+Me interesa el desarrollo de software, la programación y la creación de soluciones tecnológicas. He trabajado en proyectos académicos relacionados con aplicaciones web, gestión de inventarios, bases de datos y sistemas de información.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente continúo fortaleciendo mis habilidades técnicas, desarrollando proyectos y aprendiendo nuevas tecnologías para crecer profesionalmente en el mundo del desarrollo de software.
+
+## 🚀 Tecnologías y herramientas
+
+### 💻 Lenguajes de programación
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js" alt="Java, Python y JavaScript" />
+</p>
+
+### 🌐 Desarrollo web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, CSS y Bootstrap" />
+</p>
+
+### 🗄️ Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
+
+### 🛠️ Herramientas de desarrollo
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="Git, GitHub, IntelliJ IDEA y Visual Studio Code" />
+</p>
+
+## 📂 Proyectos y experiencia académica
+
+- 🏪 **HidraMarket:** proyecto de gestión de inventario con JavaScript y Bootstrap.
+- 🚇 **Aplicación de navegación del Metro de Medellín:** propuesta para mejorar la orientación de los usuarios y sus desplazamientos.
+- 🔧 **Serviteca Taller Automotriz:** análisis y organización de procesos de un negocio.
+- 🌱 **EcoSENA:** proyecto académico enfocado en una iniciativa tecnológica y ambiental.
+
+## 🎯 Objetivo profesional
+
+Seguir desarrollando mis habilidades en programación, bases de datos y desarrollo web, construir proyectos que demuestren mis conocimientos y adquirir experiencia laboral en el sector tecnológico.
+
+## 📫 Conecta conmigo
+
+- 📍 Medellín, Antioquia, Colombia.
+- 🎓 Formación: SENA — Análisis y Desarrollo de Software (ADSO).
+- 🐙 GitHub: [Mi perfil de GitHub](https://github.com/)
+
+---
+
+⭐ *Siempre aprendiendo, creando proyectos y convirtiendo ideas en soluciones tecnológicas.*
