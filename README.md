@@ -76,3 +76,10 @@ Me interesa aprender nuevas herramientas, resolver problemas mediante la tecnolo
 ---
 
 ⭐ *Siempre aprendiendo, creando proyectos y convirtiendo ideas en soluciones tecnológicas.*
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emmanuelospina024-alt&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelospina024-alt&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
+</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelospina024-alt&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lillystarful&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/> </p>
+
