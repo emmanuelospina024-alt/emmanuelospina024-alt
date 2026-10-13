@@ -81,5 +81,4 @@ Me interesa aprender nuevas herramientas, resolver problemas mediante la tecnolo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelospina024-alt&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
 </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelospina024-alt&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lillystarful&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/> </p>
 
