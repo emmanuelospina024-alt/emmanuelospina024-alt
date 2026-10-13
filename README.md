@@ -37,8 +37,6 @@ Actualmente continúo fortaleciendo mis habilidades técnicas, desarrollando pro
 
 ## 📂 Proyectos y experiencia académica
 
-- 🚇 **Aplicación de navegación del Metro de Medellín:** propuesta de aplicación para facilitar la orientación de los usuarios y sus desplazamientos por el sistema de transporte.
-- 🏪 **HidraMarket:** proyecto de gestión de inventario trabajado con JavaScript y Bootstrap.
 - 🔧 **Serviteca Taller Automotriz:** análisis y organización de procesos de un negocio.
 - 🌱 **EcoSENA:** proyecto académico enfocado en una iniciativa tecnológica y ambiental.
 - 🍹 **Chupitos:** proyecto relacionado con la venta de tragos, enfocado en la presentación de productos y la gestión de un negocio de bebidas.
@@ -47,31 +45,33 @@ Actualmente continúo fortaleciendo mis habilidades técnicas, desarrollando pro
 
 - 🎓 **Institución:** Servicio Nacional de Aprendizaje (SENA).
 - 💻 **Programa:** Análisis y Desarrollo de Software (ADSO).
-- 🇨🇴 **Ubicación:** Medellín, Antioquia, Colombia.
+- 📍 **Ubicación:** Medellín, Antioquia, Colombia.
 
 ## 🎯 Objetivo profesional
 
 Seguir desarrollando mis habilidades en programación, bases de datos y desarrollo web, crear proyectos que demuestren mis conocimientos y adquirir experiencia laboral en el sector tecnológico.
 
-Me interesa aprender nuevas herramientas, resolver problemas mediante la tecnología y trabajar en proyectos que me permitan crecer tanto personal como profesionalmente.
+Me interesa aprender nuevas herramientas, resolver problemas mediante la tecnología y participar en proyectos que me permitan crecer personal y profesionalmente.
 
 ## 📫 Información de contacto
 
-<p>
-  <a href="mailto:emmanuelospina024gmail.com">
+<p align="left">
+  <a href="mailto:emmanuelospina024@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico" />
   </a>
-  <a href="https://github.com/TU-USUARIO">
+  <a href="https://github.com/emmanuelospina024-alt">
     <img src="https://img.shields.io/badge/GitHub-Mi_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+  <a href="https://www.linkedin.com/in/emmanuel-ospina-alzate-4a1667443/">
     <img src="https://img.shields.io/badge/LinkedIn-Mi_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-📧 **Correo:** emmanuelospina024gmail.com
-🐙 **GitHub:** https://github.com/TU-USUARIO  
-💼 **LinkedIn:** https://www.linkedin.com/in/TU-USUARIO/
+📧 **Correo electrónico:** [emmanuelospina024@gmail.com](mailto:emmanuelospina024@gmail.com)
+
+🐙 **GitHub:** [emmanuelospina024-alt](https://github.com/emmanuelospina024-alt)
+
+💼 **LinkedIn:** [Emmanuel Ospina Alzate](https://www.linkedin.com/in/emmanuel-ospina-alzate-4a1667443/)
 
 ---
 
